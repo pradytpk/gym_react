@@ -25,10 +25,8 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
           exerciseOptions
         );
       }
-
       setExercises(exercisesData);
     };
-
     fetchExercisesData();
   }, [bodyPart]);
 
