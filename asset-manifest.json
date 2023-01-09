@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pradytpk/gym_react/static/css/main.20acbc28.css",
+    "main.js": "/pradytpk/gym_react/static/js/main.60d7c998.js",
+    "static/media/banner.png": "/pradytpk/gym_react/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/pradytpk/gym_react/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/pradytpk/gym_react/index.html",
+    "main.20acbc28.css.map": "/pradytpk/gym_react/static/css/main.20acbc28.css.map",
+    "main.60d7c998.js.map": "/pradytpk/gym_react/static/js/main.60d7c998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.60d7c998.js"
+  ]
+}
