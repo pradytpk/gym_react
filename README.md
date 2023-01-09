@@ -1,13 +1,11 @@
 # Fitness Club
 Fitness Club Application URL : https://react-gym-pradytpk.netlify.app/
+## Home Page
+![image](https://user-images.githubusercontent.com/61448614/211274880-cab8c915-eced-45b4-bad7-d57288562dc6.png)
+## Detail Screen
+![image](https://user-images.githubusercontent.com/61448614/211275046-482085da-6942-4dde-b5f5-c86c2158dab5.png)
 
-![Fitness Club](https://)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Tech Stacks
+- React
+- [Material UI](https://mui.com/material-ui)
+- Rapid Api
